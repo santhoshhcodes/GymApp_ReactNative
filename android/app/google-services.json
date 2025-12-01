@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661165840040",
+    "project_id": "stark-f3b37",
+    "storage_bucket": "stark-f3b37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661165840040:android:36bb475caa77522247549d",
+        "android_client_info": {
+          "package_name": "com.starkapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8NVrhG4IQQ-INoPOcBFLpCs_RBk7HXmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
